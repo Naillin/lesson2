@@ -27,5 +27,6 @@ _You **can** combine them_
    - [ ] dkdjlkajfldfjas
 
 SOBAKA | KISKA
+--------- | ---------
 asjd | kaljk
 --------- | ---------
