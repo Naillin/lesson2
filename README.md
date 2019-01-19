@@ -29,4 +29,3 @@ _You **can** combine them_
 SOBAKA | KISKA
 --------- | ---------
 asjd | kaljk
---------- | ---------
