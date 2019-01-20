@@ -1,0 +1,10 @@
+C:\Users\Naillin\YandexDisk\Файлы\uchob\codes3\C#Progs\calcV1\calcV1\bin\Debug\calcV1.exe.config
+C:\Users\Naillin\YandexDisk\Файлы\uchob\codes3\C#Progs\calcV1\calcV1\bin\Debug\calcV1.exe
+C:\Users\Naillin\YandexDisk\Файлы\uchob\codes3\C#Progs\calcV1\calcV1\bin\Debug\calcV1.pdb
+C:\Users\Naillin\YandexDisk\Файлы\uchob\codes3\C#Progs\calcV1\calcV1\obj\Debug\calcV1.csprojAssemblyReference.cache
+C:\Users\Naillin\YandexDisk\Файлы\uchob\codes3\C#Progs\calcV1\calcV1\obj\Debug\calcV1.Form1.resources
+C:\Users\Naillin\YandexDisk\Файлы\uchob\codes3\C#Progs\calcV1\calcV1\obj\Debug\calcV1.Properties.Resources.resources
+C:\Users\Naillin\YandexDisk\Файлы\uchob\codes3\C#Progs\calcV1\calcV1\obj\Debug\calcV1.csproj.GenerateResource.cache
+C:\Users\Naillin\YandexDisk\Файлы\uchob\codes3\C#Progs\calcV1\calcV1\obj\Debug\calcV1.csproj.CoreCompileInputs.cache
+C:\Users\Naillin\YandexDisk\Файлы\uchob\codes3\C#Progs\calcV1\calcV1\obj\Debug\calcV1.exe
+C:\Users\Naillin\YandexDisk\Файлы\uchob\codes3\C#Progs\calcV1\calcV1\obj\Debug\calcV1.pdb
